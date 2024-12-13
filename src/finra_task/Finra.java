@@ -1,4 +1,4 @@
-package day_4;
+package finra_task;
 
 public class Finra {
     public static void main(String[] args) {
